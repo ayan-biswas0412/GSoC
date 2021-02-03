@@ -160,7 +160,7 @@ None.
 **Project Task Checklist**<br>
  - Familiarize yourself with the current debugging features [Debugging](https://github.com/sugarlabs/musicblocks/blob/master/Debugging.md)
  - Come up with a framework for how debugging might work in MB 2.0
- - Implement you ideas -- some coordination will be needed both with the [Music Blocks Block Graphics Refactoring](#music-blocks-block-graphics-refactoring) project and the language interpreter.
+ - Implement your ideas -- some coordination will be needed both with the [Music Blocks Block Graphics Refactoring](#music-blocks-block-graphics-refactoring) project and the language interpreter.
 
 **Coding Mentors**<br>
 [Walter Bender](https://github.com/walterbender).
